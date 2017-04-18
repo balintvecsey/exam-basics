@@ -36,15 +36,16 @@ The application is accepted if:
 
 #### Your answer:
 [add your answer here]   
-1:   
-2:   
-3:   
-4:   
-5:   
-6:   
-7:   
-8:   
+1:  method header
+2:  return type
+3:  method name
+4:  parameter type
+5:  formal parameter
+6:  return variable
+7:  method body
+8:  return value
 
 ### What is the constructor? When it is used? [2p]
 #### Your answer:
-[add your answer here]
+
+Constractor is a blueprint for the class. It determines what parameters need to create a variable from this class. We can create default constructor too, and it will be determine default values for the class when we crate new variable without any parameters.
