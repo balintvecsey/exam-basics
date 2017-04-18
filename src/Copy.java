@@ -25,16 +25,17 @@ public class Copy {
 
     myCopy.printUsage();
     myCopy.noDestination();
+    myCopy.copyFile(args[0], args[1]);
   }
 
   public void printUsage() {
-    if (args[0].contains(null)) {
+    if (args.length == 0) {
       System.out.println("copy [source] [destination]");
     }
   }
 
   public void noDestination() {
-    if (args[2].contains(null)) {
+    if (args.length == 1) {
       System.out.println("No destination provided");
     }
   }
