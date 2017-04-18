@@ -16,7 +16,7 @@
 # Tasks
 ## 1-3. Complete the following tasks: (~90 mins)
 - [Odd Average](oddavg/OddAvg.java)
-- [Copy](copy/Copy.java)
+- [Copy.Copy](copy/Copy.java)
 - [BlackJack](blackjack/BlackJack.java)
 
 ### Acceptance criteria
@@ -35,7 +35,6 @@ The application is accepted if:
 ![anatomy](anatomy/AnatomyJava.png)
 
 #### Your answer:
-[add your answer here]   
 1:  method header
 2:  return type
 3:  method name
